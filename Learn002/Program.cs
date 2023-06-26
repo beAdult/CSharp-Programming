@@ -13,7 +13,7 @@ namespace Learn002
 {
     class Program
     {
-        static void Main()
+        static void Main(string [] args)
         {
             Student std = new Student("B20DCPT053", "Nguyen Quoc Dat", 22);
 
