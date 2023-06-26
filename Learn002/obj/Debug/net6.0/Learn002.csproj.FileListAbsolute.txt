@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Learn002\bin\Debug\net6.0\Learn002.exe
+C:\Users\admin\source\repos\Learn002\bin\Debug\net6.0\Learn002.deps.json
+C:\Users\admin\source\repos\Learn002\bin\Debug\net6.0\Learn002.runtimeconfig.json
+C:\Users\admin\source\repos\Learn002\bin\Debug\net6.0\Learn002.dll
+C:\Users\admin\source\repos\Learn002\bin\Debug\net6.0\Learn002.pdb
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.AssemblyInfo.cs
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.dll
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\refint\Learn002.dll
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.pdb
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\Learn002.genruntimeconfig.cache
+C:\Users\admin\source\repos\Learn002\obj\Debug\net6.0\ref\Learn002.dll
