@@ -12,7 +12,7 @@ namespace Learn001
     // function: void(): parameter & reference
     class Program
     {
-        static void Main()
+        static void Main(string [] args)
         {
             Console.WriteLine("Hello, World!");
             string name = Console.ReadLine();
