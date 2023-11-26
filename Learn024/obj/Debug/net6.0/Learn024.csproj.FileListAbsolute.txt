@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.AssemblyInfo.cs
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Learn024\bin\Debug\net6.0\Learn024.exe
+C:\Users\admin\source\repos\Learn024\bin\Debug\net6.0\Learn024.deps.json
+C:\Users\admin\source\repos\Learn024\bin\Debug\net6.0\Learn024.runtimeconfig.json
+C:\Users\admin\source\repos\Learn024\bin\Debug\net6.0\Learn024.dll
+C:\Users\admin\source\repos\Learn024\bin\Debug\net6.0\Learn024.pdb
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.dll
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\refint\Learn024.dll
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.pdb
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.genruntimeconfig.cache
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\ref\Learn024.dll
+C:\Users\admin\source\repos\Learn024\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\Learn024\obj\Debug\net6.0\Learn024.csproj.CopyComplete
